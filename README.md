@@ -25,4 +25,4 @@ MD5
 Message Digest Algorithm 5 (MD5) is a cryptographic hash algorithm that can be used to create a 128-bit string value from an arbitrary length string.
 Although there has been insecurities identified with MD5, it is still widely used. MD5 is most commonly used to verify the integrity of files
 
-<img src="homeScreen.jpeg" height = 400> <img src="AES.jpeg" height = 400><img src="DES.jpeg" height = 400> <img src="Md5.jpeg" height = 400>
+<img src="homeScreen.jpeg" height = 400> <img src="AES.jpeg" height = 400> <img src="DES.jpeg" height = 400> <img src="Md5.jpeg" height = 400>
