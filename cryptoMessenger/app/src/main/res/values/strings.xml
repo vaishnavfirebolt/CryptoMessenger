@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoMessenger</string>
+    <string name="crypto_messenger">CryptoMessenger</string>
+    <string name="by_vincent_rijmen_joan_daemen">By:- Vincent Rijmen, Joan Daemen</string>
+    <string name="aes_image">aes image</string>
+    <string name="adopted_by_nist_2001">Adopted by NIST (2001)</string>
+    <string name="des_image">des image</string>
+</resources>
